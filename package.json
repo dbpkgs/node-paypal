@@ -1,0 +1,31 @@
+{
+  "name": "node-paypal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight nodejs paypal payment package",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "git": "https://github.com/dbpkgs/node-paypal.git"
+  },
+  "bugs": "https://github.com/dbpkgs/node-paypal/issues",
+  "author": "dbpkgs",
+  "license": "MIT",
+  "engines": {
+    "node": "~14.17.1"
+  },
+  "keywords": [
+    "node-paypal",
+    "paypal",
+    "paypal-node",
+    "paypal-payment",
+    "rest-paypal",
+    "paypal-rest",
+    "sdk",
+    "paypal-sdk"
+  ],
+  "devDependencies": {
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
