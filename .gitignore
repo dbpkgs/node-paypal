@@ -1,2 +1,9 @@
 # modules
 node_modules
+
+# Output directory
+/lib
+
+#coverage
+coverage
+coverage-ts
